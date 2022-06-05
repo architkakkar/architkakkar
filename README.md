@@ -23,6 +23,7 @@ Full-Stack Web Developer
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
+<a href="https://www.blueprism.com/" target="_blank" rel="noreferrer"><img src="https://www.pngfind.com/pngs/m/652-6524152_bothell-wash-may-1-2019-following-the-partnership.png" width="36" height="36" alt="Blueprism" /></a>
 <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -39,9 +40,10 @@ Full-Stack Web Developer
 
 <p align="left">
 <a href="https://www.github.com/architkakkar" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/archit_kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/archit-kakkar-927172132" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/archit_kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.stackoverflow.com/users/19261614/archit-kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/architkakkar976" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="32" height="32" /></a>  
 </p>
 
 ### Badges
