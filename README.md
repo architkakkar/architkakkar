@@ -41,9 +41,10 @@ Full-Stack Web Developer
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="32" height="32" /></a>
 <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="32" height="32" /></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="32" height="32" /></a>
+<a href="https://hyper.is/" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/6489/hyper-logo.png" width="33" height="33" /></a>
 <a href="https://slack.com/intl/en-in/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="28" height="28" /></a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/344/notion--v1.png" width="33" height="33" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="32" height="32" /></a>  
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="32" height="32" /></a>
 </p>
 
 ### Socials
