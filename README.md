@@ -43,13 +43,13 @@ Full-Stack Web Developer
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="34" height="34" alt="Azure" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <br>
-<a href="https://www.blueprism.com/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/blueprism.ico" width="38" height="38" alt="Blueprism" /></a>
+<a href="https://www.blueprism.com/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/blueprism.png" width="38" height="38" alt="Blueprism" /></a>
 <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="38" height="38" alt="BitBucket" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="38" height="38" alt="Jira" /></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="36" height="36" /></a>
 <a href="https://wordpress.com/website-builder/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="38" height="38" alt="Wordpress" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.hostinger.in/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/hostinger-original.png" width="36" height="36" alt="Hostinger" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="32" height="32" alt="Heroku" /></a>
+<a href="https://www.hostinger.in/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/hostinger-original.svg" width="32" height="32" alt="Hostinger" /></a>
 </p>
 
 ### Tools
@@ -69,9 +69,9 @@ Full-Stack Web Developer
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/architkakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://x.com/_architkakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/architkakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/architkakkar" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/archit_kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.stackoverflow.com/users/19261614/archit-kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  
 </p>
