@@ -21,7 +21,6 @@ Full-Stack Web Developer
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="38" height="38" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
@@ -29,7 +28,6 @@ Full-Stack Web Developer
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="NextJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" /></a>
-<a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" width="34" height="34" alt="Figma" /></a>
 <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
@@ -37,7 +35,6 @@ Full-Stack Web Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="34" height="34" alt="Azure" /></a>
@@ -55,7 +52,6 @@ Full-Stack Web Developer
 ### Tools
 
 <p align="left">
-<a href="https://www.microsoft.com/en-in/windows/windows-11" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="30" height="30" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="32" height="32" /></a>
 <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="32" height="32" /></a>
 <a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" width="30" height="30" /></a>
