@@ -1,4 +1,4 @@
-Hi 👋 My name is Archit
+Hi, 👋 My name is Archit
 =======================
 
 Full-Stack Web Developer
