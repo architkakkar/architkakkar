@@ -4,7 +4,7 @@ Hi, 👋 My name is Archit
 Full-Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [business.architkakkar@gmail.com](mailto:business.architkakkar@gmail.com)
 * 🧠  I'm currently working on NextJS Projects.
 * 🤝  I'm open to collaborate on interesting projects as a developer
