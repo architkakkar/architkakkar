@@ -1,87 +1,145 @@
-Hi, 👋 My name is Archit
-=======================
+<div style="font-family: mono;">
+<div align="center">
+<h1>Hi 👋, I'm Archit Kakkar</h1>
+<h3 style="font-weight: 400">A passionate Fullstack Developer from India</h3>
+<img src="https://komarev.com/ghpvc/?username=architkakkar&label=Profile%20Views&color=red&style=flat" alt="architkakkar" />
+</div>
 
-Full-Stack Web Developer
-------------------------
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [business.architkakkar@gmail.com](mailto:business.architkakkar@gmail.com)
-* 🧠  I'm currently working on NextJS Projects.
-* 🤝  I'm open to collaborate on interesting projects as a developer
-* 🔗  Portfolio Website - [Archit Kakkar](https://architkakkar.vercel.app)
-
-### Skills
-
-<p align="left">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="38" height="38" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="38" height="38" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35" height="35" alt="JavaScript" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="38" height="38" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="NextJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" /></a>
 <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="34" height="34" alt="Azure" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+
+<div>
+<img src="https://github-profile-trophy.vercel.app?username=architkakkar&theme=dark_lover&no-frame=false&no-bg=false&margin-w=5" height="150" alt="trophy graph"  />
+</div>
+
+
+# About Me:
+
+- 🔭 I’m currently working on **SaaS Applications**
+
+- ✉️ You can contact me at **[business.architkakkar@gmail.com](mailto:business.architkakkar@gmail.com)**
+
+- 📚 I’m currently learning **[Fullstack-Open](https://fullstackopen.com/en/) Course**
+
+- 🤝 I’m looking to collaborate on **interesting projects as a designer/developer**
+
+- 👨‍💻 Check my Portfolio at **[architkakkar.vercel.app](https://architkakkar.vercel.app)**
+
 <br>
-<a href="https://www.blueprism.com/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/blueprism.png" width="38" height="38" alt="Blueprism" /></a>
-<a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="38" height="38" alt="BitBucket" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="38" height="38" alt="Jira" /></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="36" height="36" /></a>
-<a href="https://wordpress.com/website-builder/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="38" height="38" alt="Wordpress" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="32" height="32" alt="Heroku" /></a>
-<a href="https://www.hostinger.in/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/hostinger-original.svg" width="32" height="32" alt="Hostinger" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" width="32" height="32" alt="Vercel" /></a>
-</p>
 
-### Tools
+# Languages & Tools:
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="32" height="32" /></a>
-<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="32" height="32" /></a>
-<a href="https://replit.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" width="30" height="30" /></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="33" height="33" /></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="34" height="34" alt="Canva" /></a>
-<a href="https://hyper.is/" target="_blank" rel="noreferrer"><img src="https://github.com/architkakkar/architkakkar/blob/main/icons/hyper-original.png" width="33" height="33" /></a>
-<a href="https://slack.com/intl/en-in/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="28" height="28" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="32" height="32" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-### Socials
+<br>
 
-<p align="left">
-<a href="https://x.com/_architkakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/architkakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/architkakkar" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/archit_kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/19261614/archit-kakkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  
-</p>
+# GitHub Stats:
 
-### Badges
+<div align="center">
+  <!-- Row 1 -->
+  <div>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=architkakkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" alt="stats graph" />
+  </div>
+  <div style="margin-top: 20px;">
+    <img height="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=architkakkar&locale=en&hide_title=false&layout=donut-vertical&langs_count=6&theme=aura&hide_border=false" alt="languages graph" />
+  </div>
+  <!-- Row 2 -->
+  <div style="margin-top: 20px;">
+    <img height="200" width="480" src="https://streak-stats.demolab.com?user=architkakkar&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" alt="streak graph" />
+  </div>
+  <!-- Row 3 -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=architkakkar&radius=7&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph" />
+  </div>
+</div>
 
-<b>My GitHub Stats</b>
+<br>
 
-<a href="http://www.github.com/architkakkar"><img src="https://github-readme-stats.vercel.app/api?username=architkakkar&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="architkakkar's GitHub stats" /></a>
+# Socials:
 
-<a href="https://github.com/architkakkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architkakkar&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+  <a href="https://x.com/_architkakkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=0b0b0b&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:business.architkakkar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.stackoverflow.com/users/19261614/archit-kakkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=e7700d&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/architkakkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=blue&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Support Me
+<br>
 
-<a href="https://www.buymeacoffee.com/architkakkar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+# Support Me:
+
+<a href="https://www.buymeacoffee.com/architkakkar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="architkakkar" />
+</a>
+
+
+
