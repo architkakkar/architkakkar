@@ -6,7 +6,7 @@ I am a software engineer with 4+ years of experience in enterprise environments,
 <br />
 
 ## About
-- 🔭 **Currently Building:** [**Calibre - Fitness, Redefined**](https://github.com/architkakkar/calibre) - An AI-driven fitness platform featuring adaptive workout/ nutrition planning and a conversational agent. Built with **Next.js 16**, **TypeScript**, **Vercel AI SDK**, and **PostgreSQL**.
+- 🔭 **Currently Building:** [**Calibre - Fitness, Redefined**](https://github.com/architkakkar/calibre) - An AI-driven fitness platform featuring adaptive workout/nutrition planning and a conversational agent. Built with **Next.js 16**, **TypeScript**, **Vercel AI SDK**, and **PostgreSQL**.
 - 🎓 **Education & Focus:** Pursuing a **B.S. in Computer Science** at **BITS Pilani**, with a dedicated focus on **Advanced Data Structures & Algorithms (Java)** and **Large-Scale System Design**.
 - ⚡ **Technical Interests:** Deeply interested in **Distributed Systems**, **Microservices Patterns**, and architecting **AI-Native Applications**.
 
@@ -52,4 +52,10 @@ I am a software engineer with 4+ years of experience in enterprise environments,
   <a href="https://x.com/_architkakkar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=0b0b0b&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=architkakkar&label=Profile%20Views&color=blue&style=for-the-badge" alt="architkakkar" />
 </div>
