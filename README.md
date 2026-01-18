@@ -1,6 +1,6 @@
 # Hi 👋, I'm Archit Kakkar
 
-### Senior Software Engineer @HCLTech
+### Senior Software Developer @HCLTech
 I am a software engineer with 4+ years of experience in enterprise environments, specializing in building scalable and distributed systems. Currently, I focus on high-performance backend architecture using **Java & Spring Boot**, paired with modern frontends in **React & Next.js**.
 
 <br />
